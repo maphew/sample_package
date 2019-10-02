@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+sample_package.egg-info/PKG-INFO
+sample_package.egg-info/SOURCES.txt
+sample_package.egg-info/dependency_links.txt
+sample_package.egg-info/entry_points.txt
+sample_package.egg-info/not-zip-safe
+sample_package.egg-info/requires.txt
+sample_package.egg-info/top_level.txt
+sample_package/include/file.h
