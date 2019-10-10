@@ -19,7 +19,7 @@ setup(
     long_description=" ",
     include_package_data=True,
     name="sample-package",
-    packages=find_packages(include=["sample-package"]),
+    packages=find_packages(include=["sample_package"]),
     url="https://github.com/williamjamir/sample-package",
     use_scm_version=True,
     setup_requires=["setuptools_scm"],
